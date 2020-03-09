@@ -1,0 +1,1 @@
+print("{:->42}".format("The right format"), end = '')
